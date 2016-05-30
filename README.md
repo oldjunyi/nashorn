@@ -2,5 +2,5 @@
 
 ~~TODO: Add runtime re-obfuscation support (MCP names -> SRG names).~~
 
-Found impossible to do that at compiling phase without bringing huge performance loss.
+Found impossible to do that without bringing huge performance loss. Abandoned.
 
